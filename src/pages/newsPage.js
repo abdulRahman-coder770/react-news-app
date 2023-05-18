@@ -162,7 +162,6 @@ const NewsPage = ({getAllArticles, searchArticles}) => {
                                         (
                                             <Grid item md={4}>
                                                 <ImgMediaCard
-
                                                     title={data.title}
                                                     author={data.author}
                                                     imageUrl={data.urlToImage}
