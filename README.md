@@ -1,6 +1,6 @@
-
 ### Setup and Installation
 - `git clone`
+- move docker-compose.yaml file to the root folder that contain backend and frontend
 - generate jwt secret key in laravel and copy it in .env file
 - REACT_APP_JWT_SECRET=<your key>
   - run the next commands
